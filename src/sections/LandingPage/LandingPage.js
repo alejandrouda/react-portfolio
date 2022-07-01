@@ -1,12 +1,13 @@
 import './LandingPage.css'
 import NavbarComponent from '../../components/UI/Navbar/NavbarComponent'
+import NameDescription from '../../components/NameDescription/NameDescription'
 
 function LandingPage(props) {
   return (
-    <div className="landing-page">
+    <section className="landing-page">
       <NavbarComponent></NavbarComponent>
-      <h2>Landing page</h2>
-    </div>
+      <NameDescription></NameDescription>
+    </section>
   )
 }
 
