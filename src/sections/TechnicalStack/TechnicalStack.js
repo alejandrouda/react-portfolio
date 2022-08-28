@@ -8,7 +8,7 @@ function TechnicalStack(props) {
           <div className="single-card-container">
             <div class="skills-ilustration">
               <img
-                src="https://res.cloudinary.com/dqstmox0s/image/upload/v1609861103/portfolio/components/Website_ru5eon.svg"
+                src="https://res.cloudinary.com/dqstmox0s/image/upload/v1656686864/Ruby_on_Rails-Logo.wine_nimham.png"
                 alt="" />
             </div>
             <div class="skills-content">
@@ -21,7 +21,7 @@ function TechnicalStack(props) {
               </div>
               <div class="second-part">
                 <h5>Languages:</h5>
-                <p>Ruby on Rails, JavaScript, SQL, HTML, CSS, Scss</p>
+                <p>Ruby, JavaScript, SQL, HTML, CSS, Scss</p>
               </div>
               <div class="third-part">
                 <h5>Dev tools:</h5>
@@ -36,28 +36,38 @@ function TechnicalStack(props) {
         <div class="skills-separate"></div>
         <div class="single-card">
           <div className="single-card-container">
+
+
             <div class="skills-ilustration">
               <img
-                src="https://res.cloudinary.com/dqstmox0s/image/upload/v1609861103/portfolio/components/designer_yjuq8i.svg"
+                src="https://res.cloudinary.com/dqstmox0s/image/upload/v1656686864/Image_1_uyptvy.png"
                 alt="" />
             </div>
+
+
             <div class="skills-content">
               <div class="first-part">
-                <h4>UX/UI Designer</h4>
+                <h4>Shopify store customizations</h4>
                 <p>
-                  I stand for simple and well-structured content, based on the
-                  fundamental design principles
+                  I create professional Shopify stores from scratch, integrating Applications and customizing your theme and design.
                 </p>
               </div>
               <div class="second-part">
-                <h5>What I design:</h5>
-                <p>UX, UI, Web, Mobile, Responsive design</p>
+                <h5>Theme customizations</h5>
+                <p>
+                  I can customize your current theme, add new features or design your new store from scratch
+                </p>
               </div>
-              <div class="third-part">
-                <h5>Design tools:</h5>
-                <p>Adobe XD, Figma</p>
+              <div >
+                <h5>API Integrations</h5>
+                <p>
+                  From my working experience I have learnt best practices and how to achieve solid API integrations.
+                </p>
               </div>
+
+
             </div>
+
           </div>
         </div>
       </div>

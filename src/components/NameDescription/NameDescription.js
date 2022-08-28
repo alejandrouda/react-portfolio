@@ -6,9 +6,9 @@ function NameDescription(props) {
   return (
     <div class="name-block">
       <h1>Alejandro Udaquiola</h1>
-      <h4>Ruby On Rails | Algolia | Shopify theme development</h4>
+      <h4>Full-stack Ruby On Rails developer</h4>
       <div class="separate"></div>
-      <p>Full-stack developer based in Spain</p>
+      <p>Shopify Theme development & API integrations</p>
       <PrimaryButton />
     </div>
   )
